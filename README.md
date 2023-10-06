@@ -30,6 +30,7 @@ Usando o conceito de push e shift sendo push inseri no final e shift retira no c
 <h1 align='center'>
  <img alt='Readme' title='Readme' src='./assets/execucao.gif' />
 </h1>
+
 const filaDePedidos = ["pedido 12", "pedido 13", "pedido 14"];
 
 ---
